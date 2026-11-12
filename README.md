@@ -188,8 +188,7 @@ pizza-sales-analysis/
 ## 👤 Author
 
 **Aratrika Basu**
-- LinkedIn: 
-- GitHub: [@<Aratrikabasu2026>](https://github.com/<Aratrikabasu2026>)
+
 
 ⭐ If you found this project useful, consider giving it a star!
 
