@@ -180,16 +180,16 @@ pizza-sales-analysis/
 
 1. Clone or download this repository
 2. Install **[Power BI Desktop](https://powerbi.microsoft.com/desktop/)** (free, Windows)
-3. Open `dashboard/pizza_sales_power_bi_final.pbix`
-4. If prompted to refresh data, point the data source to your copy of the dataset under **Home → Transform data → Data source settings**
+3. Open **(https://github.com/Aratrikabasu2026/pizza-sales-analysis-powerbi-sql/blob/main/power%20bi%20pizza%20sales%20template.pbit)**
+
 
 ---
 
 ## 👤 Author
 
-**<Your Name>**
-- LinkedIn: <your-link>
-- GitHub: [@<your-username>](https://github.com/<your-username>)
+**Aratrika Basu**
+- LinkedIn: 
+- GitHub: [@<Aratrikabasu2026>](https://github.com/<Aratrikabasu2026>)
 
 ⭐ If you found this project useful, consider giving it a star!
 
@@ -198,7 +198,7 @@ pizza-sales-analysis/
 ## 🖼️ Dashboard Screenshots
 
 ### Page 1 – Home
-![Home dashboard](images/home_dashboard.png)
+![Home dashboard](dashboard%201.png)
 
 ### Page 2 – Best / Worst Sellers
-![Best and Worst Sellers dashboard](images/best_worst_sellers.png)
+![Best and Worst Sellers dashboard](dashboard2.png)
